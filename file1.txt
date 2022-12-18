@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 hai
 good night
 have a nice sleep
+=======
+hai 
+good morning
+this is my 1st class
+today we are starting github
+gmlfd
+>>>>>>> a1e4f12e5829ca2aa309b7e7a53a6fecff4e2845
